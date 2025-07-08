@@ -1,5 +1,10 @@
 # MORE COMING SOON
 ---
+# Open LLM Benchmark for Cyber Security
+## Subtitle: Evaluating Open-Source Language Models for Real-World Cyber Defense Tasks
+![](<./images/spider.png>)
+
+---
 
 ## 🧠 Introduction – Why I Built This
 
@@ -143,6 +148,7 @@ Each model’s output is evaluated across a range of criteria:
 In some cases, we also score **readability**, **explainability**, or **SOC analyst usability** based on real-world expectations.
 
 ![](<./images/spider.png>)
+
 ---
 
 ### 🧩 4. **What Makes This Different?**
