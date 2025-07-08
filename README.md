@@ -145,7 +145,7 @@ In some cases, we also score **readability**, **explainability**, or **SOC analy
 
 📈 **Visual Placeholder:**
 Radar chart comparing three LLMs across six metrics.
-![](<./images/bar.png>)
+![](<./images/spider.png>)
 ---
 
 ### 🧩 4. **What Makes This Different?**
@@ -347,7 +347,6 @@ We’re building a clean, interactive GitHub Pages site that will:
 * Include real examples of good vs. bad LLM outputs
 * Feature traffic-light dashboards, radar charts, and model match suggestions
 
-📊 **Visual Placeholder:** Interactive model explorer with dropdown filters and downloadable CSVs.
 
 ---
 
@@ -474,7 +473,7 @@ We’re not chasing leaderboard glory. We’re building infrastructure for respo
 
 ### ✅ Next Steps
 
-* 🔗 Visit the GitHub project: \[placeholder link]
+* 🔗 Visit the GitHub project: \[Link](https://github.com/FUenal/open-source-llm-cybersecurity-benchmark)
 * 📈 Explore the upcoming dashboard and GitHub Pages site
 * 💡 Contribute prompts, models, or evaluation feedback
 * 🔁 Follow the project for updates, datasets, and leaderboard launches
