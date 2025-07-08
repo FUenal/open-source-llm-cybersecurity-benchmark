@@ -92,7 +92,7 @@ We also plan to include:
 📊 **Placeholder Visual:**
 Diagram showing the flow:
 Prompt → Model → Output → Evaluation → Dashboard Score
-
+![](<./images/model.png>)
 > This project is meant to be a compass, not a gatekeeper. The goal isn’t to crown a winner—it’s to give teams the **data and tools** they need to choose the right LLM for their mission.
 
 ---
@@ -145,7 +145,7 @@ In some cases, we also score **readability**, **explainability**, or **SOC analy
 
 📈 **Visual Placeholder:**
 Radar chart comparing three LLMs across six metrics.
-
+![](<./images/bar.png>)
 ---
 
 ### 🧩 4. **What Makes This Different?**
