@@ -51,9 +51,6 @@ Unfortunately, there’s no clear answer—because until now, **no one had teste
 
 That’s the gap we aim to fill with the Open LLM Benchmark for Cyber Security.
 
----
-
-Here is **Section 3: Meet the Project – Open LLM Benchmark for Cyber Security**:
 
 ---
 
@@ -97,10 +94,6 @@ Diagram showing the flow:
 Prompt → Model → Output → Evaluation → Dashboard Score
 
 > This project is meant to be a compass, not a gatekeeper. The goal isn’t to crown a winner—it’s to give teams the **data and tools** they need to choose the right LLM for their mission.
-
----
-
-Here is **Section 4: Testing Strategy – How We Evaluate the Models**:
 
 ---
 
@@ -167,9 +160,6 @@ In short, we treat each LLM not as a novelty, but as a tool. And we ask the same
 
 > *“Does it actually help me get the job done—better, faster, or safer?”*
 
----
-
-Here is **Section 5: Key Findings So Far**:
 
 ---
 
@@ -250,9 +240,6 @@ That’s why we recommend:
 
 In short, while LLMs offer incredible promise, **blind trust is a security risk**. The Open LLM Benchmark gives teams the visibility to make smarter, safer, and more effective decisions.
 
----
-
-Here is **Section 6: Why This Matters for Organizations**:
 
 ---
 
@@ -325,10 +312,6 @@ This benchmark is designed to help you:
 ---
 
 By benchmarking open LLMs for real cybersecurity tasks, we’re enabling organizations to ask smarter questions, choose better tools, and deploy AI **on their terms**—not on a vendor’s timeline.
-
----
-
-I'm glad to hear that! Here's **Section 7: Beyond the Benchmark – Future Plans**:
 
 ---
 
@@ -412,10 +395,6 @@ The vision is simple:
 
 ---
 
-Here is **Section 8: Call for Collaboration**:
-
----
-
 ## 🤝 Call for Collaboration
 
 Cybersecurity is a team sport—and so is this benchmark.
@@ -471,10 +450,6 @@ By participating, you're not just improving a benchmark—you’re helping steer
 * 🛠️ Explore the benchmark code and start testing
 * 🧑‍💻 Open an issue or discussion with your ideas
 * 📬 Reach out on \[email / contact form] to get early access to datasets or demos
-
----
-
-Here is **Section 9: Final Thoughts** — the closing section of your Medium article:
 
 ---
 
