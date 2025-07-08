@@ -1,7 +1,10 @@
 # MORE COMING SOON
 ---
+
 # Open LLM Benchmark for Cyber Security
-## Subtitle: Evaluating Open-Source Language Models for Real-World Cyber Defense Tasks
+
+## Evaluating Open-Source Language Models for Real-World Cyber Defense Tasks
+
 ![](<./images/spider.png>)
 
 ---
