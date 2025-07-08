@@ -91,9 +91,6 @@ We also plan to include:
 * A **future leaderboard** for community-submitted models and prompts.
 * **Synthetic prompt datasets** (coming soon) to support reproducible and fair comparisons.
 
-📊 **Placeholder Visual:**
-Diagram showing the flow:
-Prompt → Model → Output → Evaluation → Dashboard Score
 ![](<./images/model.png>)
 > This project is meant to be a compass, not a gatekeeper. The goal isn’t to crown a winner—it’s to give teams the **data and tools** they need to choose the right LLM for their mission.
 
@@ -145,8 +142,6 @@ Each model’s output is evaluated across a range of criteria:
 
 In some cases, we also score **readability**, **explainability**, or **SOC analyst usability** based on real-world expectations.
 
-📈 **Visual Placeholder:**
-Radar chart comparing three LLMs across six metrics.
 ![](<./images/spider.png>)
 ---
 
@@ -206,8 +201,6 @@ For example:
 
 These workflows reduced latency, improved confidence, and made LLMs feel more like teammates than black boxes.
 
-📐 **Visual Placeholder:**
-Dashboard-style table:
 
 | Task         | Top Zero-Shot | Top Fine-Tuned   | Best for Hybrid Use |
 | ------------ | ------------- | ---------------- | ------------------- |
@@ -281,9 +274,6 @@ With open LLMs:
 * You reduce the risk of leakage, compliance issues, or vendor lock-in.
 
 For organizations in regulated industries or national infrastructure, this is more than a preference—it’s a requirement.
-
-🛡️ **Sidebar Placeholder:**
-*“Why Open LLMs Are the Right Choice for High-Security Environments”*
 
 ---
 
