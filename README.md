@@ -62,6 +62,8 @@ This isn’t an academic exercise or a leaderboard for leaderboard’s sake. It�
 
 > ❓ *Which open-source LLM performs best for the cybersecurity tasks that actually matter?*
 
+![](<./images/bar.png>)
+
 ### 🎯 Core Objectives
 
 We set out to evaluate large language models the way real security teams use them—under time pressure, with messy inputs, and mission-critical consequences. The benchmark focuses on six high-impact categories:
